@@ -1,2 +1,2 @@
-# ths-st1-benchmarking
-THS-ST1 Benchmark Dataset and Model Evaluation
+# ths-st2-modeltraining
+THS-ST1 Image Segmentation Model Training
