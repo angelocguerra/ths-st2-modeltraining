@@ -5,4 +5,4 @@ An implementation and recalibration of the YOLOv11 Image Segmentation Model in J
 
 ---
 
-Created by: Angelo Guerra, Shem, Salih
+Created by: Angelo Guerra, Shem Salih
